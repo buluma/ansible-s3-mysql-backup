@@ -1,5 +1,5 @@
 ---
-deploy_user: root
-db_name: cra
-mysql_user: root
-mysql_password: cra#gbc#2016
+deploy_user: xxxx
+db_name: xxx
+mysql_user: xxxx
+mysql_password: xxxxxx
