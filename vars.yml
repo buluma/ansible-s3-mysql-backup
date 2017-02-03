@@ -1,7 +1,5 @@
 ---
-deploy_user: nidal
-db_name: test
-mysql_user: nidal
-mysql_password: xxx
-aws_access_key: xxx
-aws_secret_key: xxx
+deploy_user: root
+db_name: cra
+mysql_user: root
+mysql_password: cra#gbc#2016
