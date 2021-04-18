@@ -1,5 +1,5 @@
 ---
 deploy_user: xxxx
-db_name: xxx
+db_name: xxxx
 mysql_user: xxxx
 mysql_password: xxxxxx
